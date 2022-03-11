@@ -8,7 +8,7 @@ Just follow this simple steps to initiate the program
 
 1. Install all the composer dependencies
 
-    ```php
+    ```bash
     $ composer install
     ```
 
